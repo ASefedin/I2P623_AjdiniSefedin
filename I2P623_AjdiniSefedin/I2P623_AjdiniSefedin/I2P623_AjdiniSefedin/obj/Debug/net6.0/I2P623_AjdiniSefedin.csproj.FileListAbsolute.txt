@@ -1,0 +1,14 @@
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\obj\Debug\net6.0\I2P623_AjdiniSefedin.GeneratedMSBuildEditorConfig.editorconfig
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\obj\Debug\net6.0\I2P623_AjdiniSefedin.AssemblyInfoInputs.cache
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\obj\Debug\net6.0\I2P623_AjdiniSefedin.AssemblyInfo.cs
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\obj\Debug\net6.0\I2P623_AjdiniSefedin.csproj.CoreCompileInputs.cache
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\bin\Debug\net6.0\I2P623_AjdiniSefedin.exe
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\bin\Debug\net6.0\I2P623_AjdiniSefedin.deps.json
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\bin\Debug\net6.0\I2P623_AjdiniSefedin.runtimeconfig.json
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\bin\Debug\net6.0\I2P623_AjdiniSefedin.dll
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\bin\Debug\net6.0\I2P623_AjdiniSefedin.pdb
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\obj\Debug\net6.0\I2P623_AjdiniSefedin.dll
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\obj\Debug\net6.0\refint\I2P623_AjdiniSefedin.dll
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\obj\Debug\net6.0\I2P623_AjdiniSefedin.pdb
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\obj\Debug\net6.0\I2P623_AjdiniSefedin.genruntimeconfig.cache
+H:\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\I2P623_AjdiniSefedin\obj\Debug\net6.0\ref\I2P623_AjdiniSefedin.dll
